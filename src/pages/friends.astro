@@ -8,8 +8,8 @@ import MainGridLayout from "../layouts/MainGridLayout.astro";
 
 const friendsPost = await getEntry("spec", "friends");
 
-if (!aboutPost) {
-	throw new Error("About page content not found");
+if (!friendsPost) {
+	throw new Error("Friends page content not found");
 }
 
 const { Content } = await render(friendsPost);
