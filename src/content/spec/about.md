@@ -1,9 +1,49 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+### Hey <img src="https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMWaHOsmrYkibmQBH_sEXluA0TUUagAAiuuMRt8LqFHsJoH7IekbNgBAAMCAANtAAM2BA.4n8036emrd.gif" width="30px">, I'm [xtawa(Xihao Zhang)!](https://github.com/xtawa)
 
-::github{repo="saicaca/fuwari"}
+## Sites
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+This site is build on Vercel.
+
+## Coding
+
+##### My Github stats
+
+![Github Stats](https://profilestat.xtawa.top/api?username=xtawa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
+## 联系方式
+
+
+
+你可以通过以下渠道联系到我。
+
+###### 敬请注意，因学业繁忙，可能无法及时回复，请谅解。
+
+#### 1.邮箱
+
+个人邮箱&友链申请&侵权投诉：[点击发送](mailto:zaz203@outlook.com)
+
+工作及合作：[点击发送，请标明来意！](mailto:luoyan@xtawa.top)
+
+#### 2.平台
+
+酷安(Coolapk)@xtawa
+
+Github@xtawa
+
+#### 3.游戏平台
+
+Xbox@zaz203
+
+###### 欢迎一起我的世界联机（Global Bedrock）
+
+## Site Copyright
+
+#### The website uses some copyrighted elements. You can contact us to remove an element of your ownership. All copyrighted elements are listed below.
+
+#### There may be more copyrighted content that I have overlooked and not listed here. You are always welcome to contact me.
+
+
+
