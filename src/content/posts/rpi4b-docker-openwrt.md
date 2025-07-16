@@ -6,6 +6,7 @@ image: ''
 tags: [树莓派,Linux,Docker]
 category: '教程'
 draft: false 
+comment: true
 lang: ''
 ---
 

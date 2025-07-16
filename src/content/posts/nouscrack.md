@@ -6,6 +6,7 @@ image: ''
 tags: [破解,记录]
 category: '记录'
 draft: false 
+comment: true
 lang: ''
 ---
 

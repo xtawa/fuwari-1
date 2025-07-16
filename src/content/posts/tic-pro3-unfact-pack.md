@@ -6,6 +6,7 @@ image: ''
 tags: [刷机,Ticwatch]
 category: '资源'
 draft: false 
+comment: true
 lang: ''
 ---
 

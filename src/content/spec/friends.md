@@ -22,10 +22,12 @@
 
 1.本站名称：YanLuo洛's Blog
 
-2.网站图标：请参考左上角"title"左侧图标，或是avatar图标。可自行剪裁。
+2.网站图标：avatar图标,可自行剪裁。
+
+附上avatar地址:https://cdn.xtawa.top/avatar.2h8lkrui9p.webp
 
 3.网站地址：https://xtawa.top
 
 4.简介：分享技术学习心得
 
-您可以发送 [邮件](mailto:zaz203@outlook.com)或在下方留言。我将会通过邮件来进一步回复。
+您可以发送 [邮件](mailto:zaz203@outlook.com) 或在下方留言。我将会通过邮件来进一步回复。

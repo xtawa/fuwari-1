@@ -6,6 +6,7 @@ image: ''
 tags: [Roblox]
 category: '教程'
 draft: false 
+comment: true
 lang: ''
 ---
 
