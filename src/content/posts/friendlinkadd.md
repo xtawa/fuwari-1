@@ -13,9 +13,7 @@ lang: ''
 
 1.本站名称：YanLuo洛's Blog
 
-2.网站图标：avatar图标
-
-附上avatar直链:https://cdn.xtawa.top/avatar.2h8lkrui9p.webp
+2.网站图标：https://cdn.xtawa.top/a4ml5-9c0h3.png 200x200
 
 3.网站地址：https://xtawa.top
 
