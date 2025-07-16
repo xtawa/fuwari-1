@@ -50,7 +50,7 @@ image: ''
 tags: []
 category: ''
 draft: false 
-draft: true
+comment: true
 lang: ''
 ---
 `
