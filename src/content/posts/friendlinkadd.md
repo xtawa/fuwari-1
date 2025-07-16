@@ -13,9 +13,9 @@ lang: ''
 
 1.本站名称：YanLuo洛's Blog
 
-2.网站图标：avatar图标,可自行剪裁。
+2.网站图标：avatar图标
 
-附上avatar地址:https://cdn.xtawa.top/avatar.2h8lkrui9p.webp
+附上avatar直链:https://cdn.xtawa.top/avatar.2h8lkrui9p.webp
 
 3.网站地址：https://xtawa.top
 
