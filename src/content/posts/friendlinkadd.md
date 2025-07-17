@@ -26,6 +26,6 @@ lang: ''
     imgurl: 'logo直链',
     desc: '描述性文本',
     siteurl: '网址',
-    tags: ['点击前往'], 
+    tags: [''], 
   },
 ```
