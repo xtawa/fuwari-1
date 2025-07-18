@@ -5,6 +5,8 @@
 
 This site is build on Vercel.
 
+Powered By Astro&Fuwari Theme
+
 ## Coding
 
 ##### My Github stats
@@ -42,6 +44,16 @@ Xbox@zaz203
 ## Site Copyright
 
 #### The website uses some copyrighted elements. You can contact us to remove an element of your ownership. All copyrighted elements are listed below.
+
+1.MiSans
+
+Copyright (C) 小米科技有限责任公司 版权所有
+
+[Website](https://hyperos.mi.com/font)
+
+2.Bing Daily Wallpaper
+
+Copyright Microsoft Co,.LTD All right reserved.
 
 #### There may be more copyrighted content that I have overlooked and not listed here. You are always welcome to contact me.
 
