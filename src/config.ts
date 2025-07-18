@@ -18,12 +18,12 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "https://bing.img.run/1920x1080.php", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/bg.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Bing Daily Wallpaper", // Credit text to be displayed
-			url: "https://www.bing.com", // (Optional) URL link to the original artwork or artist's page
+			text: "夕阳、流星 | @HKcutie", // Credit text to be displayed
+			url: "https://www.pixiv.net/artworks/115626113", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
