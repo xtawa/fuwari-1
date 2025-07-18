@@ -17,11 +17,11 @@ export const siteConfig: SiteConfig = {
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
-		enable: true,
-		src: "assets/images/bg.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		enable: false,
+		src: "", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: true, // Display the credit text of the banner image
+			enable: false, // Display the credit text of the banner image
 			text: "夕阳、流星 | @HKcutie", // Credit text to be displayed
 			url: "https://www.pixiv.net/artworks/115626113", // (Optional) URL link to the original artwork or artist's page
 		},

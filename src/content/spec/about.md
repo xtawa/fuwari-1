@@ -51,13 +51,7 @@ Copyright (C) 小米科技有限责任公司 版权所有
 
 [Website](https://hyperos.mi.com/font)
 
-2.Banner Picture
 
-Name:夕阳、流星
-
-Auther:**HKcutie⭐**
-
-Site[:Pixiv](https://www.pixiv.net/artworks/115626113)
 
 #### There may be more copyrighted content that I have overlooked and not listed here. You are always welcome to contact me.
 
