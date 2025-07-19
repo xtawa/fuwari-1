@@ -3,7 +3,7 @@ title: Ticwatch Pro 3 官改包
 published: 2025-07-10
 description: 'Ticwatch Pro 3 或 Ultra的第三方刷机包'
 image: ''
-tags: [刷机,Ticwatch]
+tags: [刷机,Ticwatch,Wear]
 category: '资源'
 draft: false 
 comment: true
