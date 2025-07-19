@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/src/assets/images/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://cdn.xtawa.top/avatar.2h8lkrui9p.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "YanLuo洛",
 	bio: "A little bit about you",
 	links: [
