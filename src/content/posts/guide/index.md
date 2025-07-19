@@ -2,11 +2,13 @@
 title: 网站更新日志
 published: 2024-10-07
 description: "Website update log"
-image: "./cover.jpeg"
+image: ""
 tags: ["Fuwari", "Blogging", "website"]
 category: Guides
 draft: false
 ---
+
+![Cover](https://cdn.xtawa.top/cover.7sni99mpd4.webp)
 
 Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
 
