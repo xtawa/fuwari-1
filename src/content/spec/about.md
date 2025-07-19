@@ -1,6 +1,18 @@
 # About
 ### Hey <img src="https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMWaHOsmrYkibmQBH_sEXluA0TUUagAAiuuMRt8LqFHsJoH7IekbNgBAAMCAANtAAM2BA.4n8036emrd.gif" width="30px">, I'm [xtawa(Xihao Zhang)!](https://github.com/xtawa)
 
+Make Something Fun
+
+![snakegame](https://cdn.xtawa.top/snake-Light.175oit86ra.svg)
+
+> [!NOTE]
+>
+> 非真实记录，仅供娱乐
+>
+> Not a real record, just for fun.
+
+
+
 ## Sites
 
 This site is build on Vercel.
@@ -51,7 +63,9 @@ Copyright (C) 小米科技有限责任公司 版权所有
 
 [Website](https://hyperos.mi.com/font)
 
+2.Banner
 
+Check the copyright icon
 
 #### There may be more copyrighted content that I have overlooked and not listed here. You are always welcome to contact me.
 
