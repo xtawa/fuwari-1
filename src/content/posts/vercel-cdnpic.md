@@ -143,3 +143,10 @@ setInterval(updateTime, 1000); // 每1000毫秒（1秒）更新时间
 
 因此，选择Vercel比Cloudflare更明智。
 
+
+
+#### 2025/07/19更新：
+
+给vercel套上优选ip访问效果更加显著：
+
+![listvercel+ipbetter](https://cdn.xtawa.top/image.4n80atnsps.webp)
